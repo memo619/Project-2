@@ -1,0 +1,47 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "C:/Users/Memo/source/repos/reclistsStudentVersion/out/build/x64-Debug",
+	"dir-cur-src" : "C:/Users/Memo/source/repos/reclistsStudentVersion",
+	"dir-top-bld" : "C:/Users/Memo/source/repos/reclistsStudentVersion/out/build/x64-Debug",
+	"dir-top-src" : "C:/Users/Memo/source/repos/reclistsStudentVersion",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/Memo/source/repos/reclistsStudentVersion/out/build/x64-Debug/CMakeFiles/reclistsStudentVersion.dir",
+	"sources" : 
+	{
+		"CMakeFiles/reclistsStudentVersion.dir/lex.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Memo/source/repos/reclistsStudentVersion/lex.cpp"
+		},
+		"CMakeFiles/reclistsStudentVersion.dir/main.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Memo/source/repos/reclistsStudentVersion/main.cpp"
+		},
+		"CMakeFiles/reclistsStudentVersion.dir/parser.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Memo/source/repos/reclistsStudentVersion/parser.cpp"
+		},
+		"CMakeFiles/reclistsStudentVersion.dir/reclists.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Memo/source/repos/reclistsStudentVersion/reclists.cpp"
+		},
+		"CMakeFiles/reclistsStudentVersion.dir/solutions.cpp.obj" : 
+		{
+			"language" : "CXX",
+			"source" : "C:/Users/Memo/source/repos/reclistsStudentVersion/solutions.cpp"
+		}
+	}
+}

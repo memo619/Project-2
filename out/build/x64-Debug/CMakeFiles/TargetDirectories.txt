@@ -1,0 +1,3 @@
+C:/Users/Memo/source/repos/reclistsStudentVersion/out/build/x64-Debug/CMakeFiles/reclistsStudentVersion.dir
+C:/Users/Memo/source/repos/reclistsStudentVersion/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Memo/source/repos/reclistsStudentVersion/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

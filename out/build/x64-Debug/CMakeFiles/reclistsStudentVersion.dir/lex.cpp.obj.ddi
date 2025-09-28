@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\reclistsStudentVersion.dir\\lex.cpp.obj",
+            "outputs": [
+                "C:\\Users\\Memo\\source\\repos\\reclistsStudentVersion\\out\\build\\x64-Debug\\vc140.pdb",
+                "CMakeFiles\\reclistsStudentVersion.dir\\lex.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

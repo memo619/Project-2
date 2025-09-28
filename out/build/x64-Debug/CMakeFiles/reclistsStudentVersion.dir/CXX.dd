@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\reclistsStudentVersion.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\reclistsStudentVersion.dir\lex.cpp.obj: dyndep
+
+build CMakeFiles\reclistsStudentVersion.dir\parser.cpp.obj: dyndep
+
+build CMakeFiles\reclistsStudentVersion.dir\reclists.cpp.obj: dyndep
+
+build CMakeFiles\reclistsStudentVersion.dir\solutions.cpp.obj: dyndep
+
